@@ -1,2 +1,1 @@
-# Amazon-Global-Clone
-This clone is something i made when i finished learning CSS, just adding this to repo as a memory.
+[*click here to review the project*](https://mohitxd-fr.github.io/Amazon-Global-Clone/)
